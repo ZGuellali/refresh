@@ -6,8 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class RefreshApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(RefreshApplication.class, args);
+	public static void main(String[] args) {SpringApplication.run(RefreshApplication.class, args);
 	}
 
 }
